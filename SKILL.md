@@ -18,9 +18,15 @@ NUNCA te desvíes de las siguientes directrices:
 * **Gris Oscuro Grafito:** #545456
 * *Regla:* NO utilices colores vibrantes ni elementos fuera de esta paleta. El diseño debe ser moderno, limpio y equilibrado usando estos tonos.
 
-### 2. Tipografía
+### 2. Tipografía y Jerarquía Tipográfica
 * **Tipografía Principal:** Helvetica Neue LT Std (Para títulos y textos institucionales).
 * **Tipografía de Apoyo:** Coolvetica (Como fuente complementaria).
+
+* **Jerarquía de Tamaños de Fuente (Escala y Usos):**
+  * **Títulos Principales / H1:** `32px` – `40px` (2rem – 2.5rem) / *Bold o Heavy*. Reservado para titulares principales, banners principales y cabeceras de alto impacto.
+  * **Subtítulos / H2 - H3:** `20px` – `28px` (1.25rem – 1.75rem) / *Medium o Bold*. Utilizado para secciones secundarias, destacadas o encabezados de bloques.
+  * **Cuerpo de Texto (Body):** `14px` – `16px` (0.875rem – 1rem) / *Regular / Light*. Tamaño estándar para párrafos, descripciones de producto y lectura general. Debe mantener un interlineado (*line-height*) de `1.5` para garantizar óptima legibilidad.
+  * **Textos Secundarios / Captions / Legales:** `11px` – `13px` (0.6875rem – 0.8125rem) / *Regular*. Para notas al pie, especificadores técnicos breves, pies de foto o textos de derechos reservados.
 
 ### 3. Aplicación del Logotipo
 * **Área de Seguridad:** Debes asegurar (o indicar en tus recomendaciones) que el logotipo conserve siempre un espacio en blanco o margen equivalente al ancho de la letra **"O"** del propio logotipo, en todos sus lados (superior, inferior, izquierdo, derecho).
